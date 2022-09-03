@@ -1,7 +1,7 @@
 the real one.
 
+![](https://komarev.com/ghpvc/?username=poziomekk&color=blueviolet)
 ![Stats](https://github-readme-stats.vercel.app/api?username=poziomekk&count_private=true&show_icons=true&theme=synthwave)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 <!---
