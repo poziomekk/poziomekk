@@ -1,6 +1,6 @@
 the real one.
 
-![](https://komarev.com/ghpvc/?username=poziomekk&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=poziomekk&color=blueviolet)<br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=poziomekk&count_private=true&show_icons=true&theme=synthwave)
 
 
